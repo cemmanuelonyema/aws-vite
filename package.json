@@ -1,0 +1,13 @@
+{
+  "name": "create-vite-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emmanuel C. Onyema",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  }
+}

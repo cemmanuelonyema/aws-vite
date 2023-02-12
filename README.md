@@ -5,10 +5,9 @@ Vite doesn't set up projects like CRA which comes out of the box with most featu
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Linting
+- Testing
+- Folder Structure
 
 ## Installation
 
@@ -45,7 +44,7 @@ Please adhere to this project's `code of conduct`.
 
 - [@cemmanuelonyema](https://github.com/cemmanuelonyema)
 
-- [@ehkMansa](https://github.com/RehkMansa)
+- [@rehkMansa](https://github.com/RehkMansa)
 
 ## Acknowledgements
 

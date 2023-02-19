@@ -1,7 +1,7 @@
 {
   "name": "aws-vite",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.cjs",
   "author": "Emmanuel C. Onyema",
   "description": "Awesome vite template to kickstart your project",
   "license": "MIT",
@@ -23,7 +23,9 @@
     "package"
   ],
   "devDependencies": {
+    "@types/prompts": "^2.4.2",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
     "eslint": "^8.0.1",
     "eslint-config-standard-with-typescript": "^34.0.0",
     "eslint-plugin-import": "^2.25.2",

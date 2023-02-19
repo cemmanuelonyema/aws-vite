@@ -1,5 +1,5 @@
 {
-  "name": "create-vite-config",
+  "name": "aws-vite",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Emmanuel C. Onyema",

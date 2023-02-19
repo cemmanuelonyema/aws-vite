@@ -3,11 +3,26 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Emmanuel C. Onyema",
+  "description": "Awesome vite template to kickstart your project",
   "license": "MIT",
   "type": "module",
   "engines": {
     "node": ">=14.0.0",
     "yarn": ">=1.22.0",
     "npm": "please-use-yarn"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemmanuelonyema/aws-vite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cemmanuelonyema/aws-vite/issues"
+  },
+  "homepage": "https://github.com/cemmanuelonyema/aws-vite#readme",
+  "keywords": [
+    "vite",
+    "awesome",
+    "template",
+    "package"
+  ]
 }

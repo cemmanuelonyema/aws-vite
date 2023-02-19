@@ -44,8 +44,6 @@ Please adhere to this project's `code of conduct`.
 
 - [@cemmanuelonyema](https://github.com/cemmanuelonyema)
 
-- [@rehkMansa](https://github.com/RehkMansa)
-
 ## Acknowledgements
 
 - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
